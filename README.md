@@ -11,7 +11,7 @@
 - 
 
 ### 26届综合大群
-![image info](QRCodes/综合大群/26.jpg){ width: 200px; }
+![image info](QRCodes/综合大群/26.jpg){ width: 10px; }
 
 
 ## 兴趣娱乐
