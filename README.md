@@ -29,13 +29,22 @@ Chinese Alliance Wechat Groups
 ## ECE
 
 ## CSE
-- [CSE12](#CSE12)
-- [26届综合大群](#26届综合大群)
+- [CSE11](#CSE11)
+- [CSE12/15L](#CSE12)
+- [CSE20](#CSE20)
+- [CSE21](#CSE21)
+- [CSE30](#CSE30)
+- [CSE100](#CSE100)
+- [CSE103](#CSE103)
+- [CSE110](#CSE110)
+- [CSE120](#CSE120)
+- [CSE140/140L](#CSE140)
+- [CSE141/141L](#CSE141)
 ### CSE11
 ![image info](QRCodes/Course/CSE11.jpg){:height="200px"}
 
 [返回顶部](#Wechat_Groups) [返回CSE列表](#CSE)
-### CSE12
+### CSE12/15L
 ![image info](QRCodes/Course/CSE12.jpg){:height="200px"}
 
 [返回顶部](#Wechat_Groups) [返回CSE列表](#CSE)
@@ -75,9 +84,3 @@ Chinese Alliance Wechat Groups
 ![image info](QRCodes/Course/CSE141.jpg){:height="200px"}
 
 [返回顶部](#Wechat_Groups) [返回CSE列表](#CSE)
-
-
-### 26届综合大群
-![image info](QRCodes/综合大群/26.jpg){:height="200px"}
-
-## 
