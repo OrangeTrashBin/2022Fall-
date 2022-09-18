@@ -29,7 +29,7 @@ Chinese Alliance Wechat Groups
 ## ECE
 
 ## CSE
-- [CSE11](#CSE11)
+- [CSE11](##CSE11)
 - [CSE12/15L](#CSE12)
 - [CSE20](#CSE20)
 - [CSE21](#CSE21)
