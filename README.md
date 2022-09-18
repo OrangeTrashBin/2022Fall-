@@ -8,7 +8,7 @@
 
 
 ## 综合大群
-- 
+- [26届综合大群](#26届综合大群)
 
 ### 26届综合大群
 ![image info](QRCodes/综合大群/26.jpg){:height="36px" width="36px"}
