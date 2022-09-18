@@ -1,6 +1,7 @@
 # Wechat_Groups
 
-Chinese Alliance Wechat Groups
+Chinese Alliance Wechat Groups.. Coming soon..
+EST. Finished Time: 3pm, 9.19 2022, PDT
 
 # 选择分类/专业（课友群为2022FALL）
 - [综合大群](#综合大群)
