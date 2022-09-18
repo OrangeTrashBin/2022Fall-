@@ -5,9 +5,9 @@ Chinese Alliance Wechat Groups
 # 选择分类/专业（课友群为2022FALL）
 - [综合大群](#综合大群)
 - [兴趣娱乐](#兴趣娱乐)
-- [MATH](#MATH)
-- [PHYS](#PHYS)
-- [CSE](#CSE)
+- [MATH](#math)
+- [PHYS](#phys)
+- [CSE](#cse)
 
 
 ## 综合大群
@@ -44,7 +44,7 @@ Chinese Alliance Wechat Groups
 ### CSE11
 ![image info](QRCodes/Course/CSE11.jpg){:height="200px"}
 
-[返回顶部](#Wechat_Groups) [返回CSE列表](#CSE)
+[返回顶部](#wechat_groups) [返回CSE列表](#cse)
 ### CSE12/15L
 ![image info](QRCodes/Course/CSE12.jpg){:height="200px"}
 
