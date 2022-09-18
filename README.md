@@ -25,5 +25,15 @@
 ## ECON
 ## 学院写作
 ## ECE
+
 ## CSE
+- [综合大群](#综合大群)
+- [26届综合大群](#26届综合大群)
+### 综合大群
+![image info](QRCodes/Course/CSE12.jpg){:height="200px"}
+
+[返回顶部][返回CSE列表]
+### 26届综合大群
+![image info](QRCodes/综合大群/26.jpg){:height="200px"}
+
 ## 
