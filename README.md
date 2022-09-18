@@ -29,12 +29,13 @@ Chinese Alliance Wechat Groups
 ## ECE
 
 ## CSE
-- [综合大群](#综合大群)
+- [CSE12](#CSE12)
 - [26届综合大群](#26届综合大群)
-### 综合大群
+### CSE12
 ![image info](QRCodes/Course/CSE12.jpg){:height="200px"}
-
 [返回顶部](#Wechat_Groups) [返回CSE列表](#CSE)
+
+
 ### 26届综合大群
 ![image info](QRCodes/综合大群/26.jpg){:height="200px"}
 
