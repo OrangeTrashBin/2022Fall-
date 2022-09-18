@@ -32,15 +32,30 @@ Chinese Alliance Wechat Groups
 ![image info](QRCodes/Course/AWP3.jpg){:height="200px"}
 
 [返回顶部](#wechat_groups) [返回CSE列表](#学院写作)
-### AWP3
-![image info](QRCodes/Course/CSE11.jpg){:height="200px"}
+### AWP4A
+![image info](QRCodes/Course/AWP4A.jpg){:height="200px"}
 
 [返回顶部](#wechat_groups) [返回CSE列表](#学院写作)
-### AWP3
-![image info](QRCodes/Course/CSE11.jpg){:height="200px"}
+### AWP4B
+![image info](QRCodes/Course/AWP4B.jpg){:height="200px"}
 
 [返回顶部](#wechat_groups) [返回CSE列表](#学院写作)
+### HUM3
+![image info](QRCodes/Course/HUM3.jpg){:height="200px"}
 
+[返回顶部](#wechat_groups) [返回CSE列表](#学院写作)
+### MCWP40
+![image info](QRCodes/Course/MCWP40.jpg){:height="200px"}
+
+[返回顶部](#wechat_groups) [返回CSE列表](#学院写作)
+### MCWP50
+![image info](QRCodes/Course/MCWP50.jpg){:height="200px"}
+
+[返回顶部](#wechat_groups) [返回CSE列表](#学院写作)
+### MCWP50
+![image info](QRCodes/Course/MCWP50.jpg){:height="200px"}
+
+[返回顶部](#wechat_groups) [返回CSE列表](#学院写作)
 
 ## ECE
 
